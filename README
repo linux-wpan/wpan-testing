@@ -1,0 +1,14 @@
+This repository holds some test scripts being used by the linux-wpan project
+during development and testing.
+
+
+
+wpan-tools:
+
+ieee802154:
+o Sending ieee802154 frames back and forth with wpan-ping
+
+6lowpan:
+o Some basic ping6 testing with various sizes
+o Plugtest stimuli as defined in https://github.com/6lo/test-descriptions and
+  being used in various ETSI plugfests for 6lo
